@@ -3,7 +3,7 @@ import React, { Component } from 'react'
 export class ContactList extends Component {
     selContactHandler = (contact) => {
         this.props.methodOne(contact);
-        console.log(contact.name.first)
+        // console.log(contact.name.first)
     }
     render() {
         //let { contacts } = this.props.contacts
