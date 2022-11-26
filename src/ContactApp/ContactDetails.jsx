@@ -5,8 +5,7 @@ class ContactDetails extends Component {
 
         return (
             <div className="row">
-                {/* <pre>{JSON.stringify(this.props.userSelectedContact)}</pre>
-                 */}
+                {/* <pre>{JSON.stringify(this.props.userSelectedContact)}</pre>*/}
                 <div className="col">
                     <div className="card">
                         <div className="card-header">
